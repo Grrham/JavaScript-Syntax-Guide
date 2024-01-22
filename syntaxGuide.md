@@ -1,7 +1,7 @@
 
 #                   **Welcome**
 ##             Java Script syntaxGuide
-###                  By:[Benton]
+####             Created by Grrham
 
 ###               **Variables**
 
